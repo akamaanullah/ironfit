@@ -1,0 +1,6 @@
+{
+  "name": "IronFit",
+  "description": "A premium, beautifully designed fitness, gym, and nutrition companion app with advanced tracking and dark modern styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
